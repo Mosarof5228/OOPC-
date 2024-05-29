@@ -10,7 +10,7 @@ public:
     {
         id = x;
         gpa = y;
-    };
+    }
     void display()
     {
         cout << id << " " << gpa << endl;
